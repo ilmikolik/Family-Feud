@@ -1,0 +1,1 @@
+multiplier=1&answercount=5&answer1=TO+DEODORIZE&answer1value=44&answer2=TO+BAKE/COOK&answer2value=25&answer3=TO+BRUSH+TEETH&answer3value=12&answer4=TO+PUT+OUT+FIRES&answer4value=7&answer5=TO+CLEAN&answer5value=4

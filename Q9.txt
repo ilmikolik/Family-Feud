@@ -1,0 +1,1 @@
+answercount=5&multiplier=3&answer1=PIZZA&answer1value=27&answer2=CAKE&answer2value=15&answer3=ICE+CREAM&answer3value=9&answer4=HAMBURGER&answer4value=7&answer5=STEAK&answer5value=6
